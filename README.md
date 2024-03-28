@@ -19,7 +19,7 @@ Includes importing necessary libraries and modules.
 
 ### STEP 2 - Loading Dataset
 
-Includes loading the dataset from keras library and checking its details.
+Includes loading the dataset from [keras library](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10) and checking its details.
 
 ### STEP 3 - Image Preprocessing
 
