@@ -34,11 +34,11 @@ Includes data transformation and augmentation using [ImageDataGenerator](https:/
 The CNN model consists of the following [Sequential](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential) layers:
 
 1. Input layer.
-2. Two convolutional layers with [relu](https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu) activation function and an increasing number of filters.
+2. Two convolutional layers with [ReLU](https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu) activation function and an increasing number of filters.
 3. Two max pooling layers following the convolutional layers.
 4. Flattening layer.
-5. Two dense/fully connected layers with [relu](https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu) activation function.
-6. Output layer with [softmax](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Softmax) activation function.
+5. Two dense/fully connected layers with [ReLU](https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu) activation function.
+6. Output layer with [Softmax](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Softmax) activation function.
 
 ### STEP 5 - Model Training
 
