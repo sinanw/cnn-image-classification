@@ -11,7 +11,7 @@ The dataset has the following features:
 
 ## Image Classification Details
 The project is implemented in several steps simulating the essential data processing and analysis phases. <br/>
-- Each step is represented in a corresponding section inside [image-classification.ipynb](https://github.com/sinanw/cnn-image-classification/blob/main/notebooks/image-classification.ipynb).
+- Each step is represented in a corresponding section inside [image-classification-tensorflow.ipynb](https://github.com/sinanw/cnn-image-classification/blob/main/notebooks/image-classification-tensorflow.ipynb).
 
 ### STEP 1 - Initialization 
 
